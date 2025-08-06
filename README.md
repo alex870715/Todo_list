@@ -173,7 +173,7 @@ https://[您的使用者名稱].github.io/[儲存庫名稱]
 
 如果您有任何問題或建議，歡迎：
 - 開啟 GitHub Issue
-- 發送 Email 到 [您的 Email]
+- 發送 Email 到 [alexchen870715@gmail.com]
 - 在 GitHub 上關注我
 
 ---
